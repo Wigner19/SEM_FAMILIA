@@ -1,4 +1,4 @@
-from Users.Users import users_blueprint
+from Users.users import users_blueprint
 
 
 def init_app(app):
